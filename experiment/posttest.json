@@ -2,37 +2,39 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Which of the following is not a method of heat transfer?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "convection",
+        "b": "conduction",
+        "c": "insulation",
+        "d": "radiation"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
+      
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Outdoors in the winter, why does a piece of metal feel colder than a piece of wood?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Humidity affects metal easily",
+        "b": "Hardness of the wood",
+        "c": "Metals are good conductors of heat than wood",
+        "d": "All of the above"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+      
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Why hot air rise and cold air sinks?",
+      "answers": {
+        "a": "Due to density",
+        "b": "Due to the environment",
+        "c": "Due to collision of molecules",
+        "d": "All of the above"
+      },
+     
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
