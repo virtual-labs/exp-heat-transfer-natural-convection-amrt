@@ -24,7 +24,7 @@ Where h is the convective heat transfer coefficient (units $Wm^{-2}K^{-1}$) whic
 
 Convection is an enhanced form of conduction, since the movement of the fluid helps carry heat transferred by conduction, so one would expect some relation between h and k. If the temperature of the cylinder is not much above that of the surrounding air, the moving fluid can be approximated as a stationary layer having some characteristic thickness L. Comparing equations (1) and (2), one immediately has the relation h = k/L. In fact, as the temperature of the cylinder increases, fluid motion increases and becomes turbulent, whereupon the fluid becomes more efficient at carrying heat, and h can turn out to be $10^{2}$ - $10^{4}$ times k/L.The proportionality between h and k/L is called the Nusselt number N,
 
-$$N=\frac{h}{k/L}=\frac{hL}{k}..............(4)$$
+$$N=\frac{h}{k/L}=\frac{hL}{k}..............(3)$$
 
 Where k is thermal conductivity of air and L is the characteristic length. Note that N is a dimensionless quantity.
 
