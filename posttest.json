@@ -1,0 +1,41 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Which of the following is not a method of heat transfer?",
+      "answers": {
+        "a": "convection",
+        "b": "conduction",
+        "c": "insulation",
+        "d": "radiation"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Outdoors in the winter, why does a piece of metal feel colder than a piece of wood?",
+      "answers": {
+        "a": "Humidity affects metal easily",
+        "b": "Hardness of the wood",
+        "c": "Metals are good conductors of heat than wood",
+        "d": "All of the above"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Why hot air rise and cold air sinks?",
+      "answers": {
+        "a": "Due to density",
+        "b": "Due to the environment",
+        "c": "Due to collision of molecules",
+        "d": "All of the above"
+      },
+     
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}
